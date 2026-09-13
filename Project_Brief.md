@@ -3,5 +3,23 @@ What percentage of the rural population in a given Local Government Area (LGA) l
 
 # Data and sources
 Population Data - https://www.worldpop.org/
+
 Healthcare Facility Points - https://data.grid3.org/datasets/827e3638dc204f4b9ddbbd19b00954d6/about
+
 Administrative Boundaries - http://gaul.trigis.space/
+
+# Downloads and links
+population Nigeria - https://hub.worldpop.org/geodata/summary?id=74736
+
+Oyo state boundary - https://globe.gntulu.workers.dev/
+
+Healthcare Facility Points - https://data.grid3.org/datasets/827e3638dc204f4b9ddbbd19b00954d6/about
+
+# Data Attributes
+Oyo - one feature, key column is the state name
+population Nigeria - needs to be clipped to feature oyo only
+Healthcare Facility Points - needs to be clipped to feature oyo only
+
+
+
+
